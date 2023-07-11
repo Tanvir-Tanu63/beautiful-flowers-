@@ -51,3 +51,90 @@
     font-weight: 400;
     line-height: 30px; 
 }
+.section-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+   line-height: normal;
+}
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.flowers-s{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 410px;
+    height: 428px;
+}
+.photos{
+    display: flex;
+    justify-content:space-evenly
+}
+.flower-s{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+
+.flowers-containers{
+    width: 100%;
+    margin: 0%;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.flower-dl{
+    width: 88px;
+    height: 88px;
+}
+.flower-d{
+    display: flex;
+    justify-content: space-around;
+}
+.flower-ss{
+     color: rgba(39, 39, 39, 0.80);
+     text-align: center;
+     font-family: Lato;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 35px;
+}
+.flower-contant{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background: rgba(229, 84, 115, 0.05);
+    border-radius: 8px;
+    padding: 300px;
+    text-align: center;
+    margin-bottom: 50px;
+    width: 3500px;  
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:space-between
+}
