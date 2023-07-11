@@ -196,10 +196,8 @@
 
 .email{
     align-items: center;
-    width: 700px;
-    height: 64px;
-    flex-shrink: 0;
-
+    justify-content: center;
+    display: flex;
 }
 
 
