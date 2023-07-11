@@ -138,3 +138,83 @@
     align-items: center;
     justify-content:space-between
 }
+.section-tit{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.section-des{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.photo{
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+}
+.photo-flo{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.background-li{
+    height: 50vh;
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    background-color: center;
+    background-size: cover;
+    margin: 50px;
+}
+.bk-msg{
+    text-align: center;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.bk-dis{
+    display: center;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.email{
+    align-items: center;
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+
+}
+
+
+
+.about-last{
+    width: 2822px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+}
+
+.about-flower{
+    color: #E55473;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+}
