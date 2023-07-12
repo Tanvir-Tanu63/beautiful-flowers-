@@ -203,10 +203,11 @@
 
 
 .about-last{
-    width: 2822px;
-    height: 449px;
+    width: 1600px;
+    height: 400px;
     flex-shrink: 0;
     background: #111010;
+    justify-content: center;
 }
 
 .about-flower{
